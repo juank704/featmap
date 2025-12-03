@@ -1,6 +1,6 @@
 {
-  "appSiteURL": "https://localhost:5000",
-  "dbConnectionString": "postgresql://postgres:postgres@postgres:5432/postgres?sslmode=disable",
+  "appSiteURL": "http://68.183.175.19:5000",
+  "dbConnectionString": "postgresql://featmap_user:CambiarPorPasswordSeguro123!@postgres:5432/featmap?sslmode=disable",
   "jwtSecret": "ChangeMeForProduction",
   "port": "5000",
   "emailFrom": "",
