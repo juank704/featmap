@@ -15,7 +15,7 @@ services:
                         timeout: 5s
                         retries: 5
         featmap:
-                image: amborle/featmap
+                image: juan/featmap:local
                 restart: always
                 build: 
                         context: .
